@@ -1,2 +1,2 @@
-echo 'Hello from dev'
+echo 'MADNESSSSSS Conflict'
 echo 'New new'
