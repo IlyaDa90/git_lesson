@@ -1,2 +1,2 @@
-echo 'Hello from dev'
+echo 'MAin brach version'
 echo 'New new'
