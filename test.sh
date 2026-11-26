@@ -1,2 +1,2 @@
-echo 'MAin brach version'
-echo 'New new'
+echo 'MADNESSSSSS Conflict'
+
